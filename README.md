@@ -1,1 +1,2 @@
-# tb-wgs-tutorial
+# omics-course
+# pathogen-genomics
